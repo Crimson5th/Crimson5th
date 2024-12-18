@@ -1,6 +1,8 @@
 <h1>Hi, I'm Quintin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
+ <br>  <b>  Azure / Cloud Cybersecurity Projects<br></b>
+           ° Creating a Live SOC/Honeynet in Azure 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
