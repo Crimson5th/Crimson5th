@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
  <br>  <b>  Azure / Cloud Cybersecurity Projects<br></b>
-           ° Creating a Live SOC/Honeynet in Azure 
+  
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> Creating a Live SOC/Honeynet in Azure</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
