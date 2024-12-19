@@ -4,7 +4,7 @@
  <br>  <b>  Azure / Cloud Cybersecurity Projects<br></b>
   
 
-- <b> Creating a Live SOC/Honeynet in Azure https://github.com/Crimson5th/Honey-SOC</b>
+- <b> [Creating a Live SOC/Honeynet in Azure](https://github.com/Crimson5th/Honey-SOC)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
