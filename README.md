@@ -4,8 +4,8 @@
  <br>  <b>  Azure / Cloud Cybersecurity Projects<br></b>
   
 
-- <b> [Creating a Live SOC/Honeynet in Azure](https://github.com/Crimson5th/Honey-SOC)</b>
+- <b>🍯🍯  [Creating a Live SOC/Honeynet in Azure](https://github.com/Crimson5th/Honey-SOC)</b>
   
-- <b>Vulnerability Scanning (Nessus Scan)</b>
+- <b>⚠ Vulnerability Management Projects</b>https://github.com/Crimson5th/vulnerability-management-program/tree/main
   -<h4> [Results of Nessus Scan](https://github.com/Crimson5th/Nessus-Scan/blob/main/README.md) <b></h4>
   
