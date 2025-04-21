@@ -1,4 +1,4 @@
-<h1>Hi, I'm Quintin a passionate <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Quintin a passionate <br/> <a href="https://www.linkedin.com/in/quintin-harrigin-21033b303/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
  <br>  <b>  Azure / Cloud Cybersecurity Projects<br></b>
