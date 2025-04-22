@@ -15,7 +15,7 @@
   
 - <b>🚨🚨  [Threat-Hunting-Scenario-Tor](https://github.com/Crimson5th/threat-hunting-scenario-tor)</b>
 
-- <b>🚨🚨  [Devices Accidentally Exposed to the Internet](https://github.com/Crimson5th/Internet-Facing-Scenario/blob/main/README.md))</b>
+- <b>🚨🚨  [Devices Accidentally Exposed to the Internet](https://github.com/Crimson5th/Internet-Facing-Scenario/blob/main/README.md)</b>
 
 - <b>🚨🚨  [Sudden Network Slowdowns Scenario](https://github.com/Crimson5th/Network-Slowdown-Scenario/blob/main/README.md)</b>
 
