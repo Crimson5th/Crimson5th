@@ -19,5 +19,5 @@
 
 - <b>🚨🚨  [Sudden Network Slowdowns Scenario](https://github.com/Crimson5th/Network-Slowdown-Scenario/blob/main/README.md)</b>
 
-- <b>🚨🚨  [Suspected Data Exfiltration from PIPd Employee Scenario]https://github.com/Crimson5th/Suspected-Data-Exfiltration-from-PIPd-Employee-Scenario/blob/main/README.md</b>
+- <b>🚨🚨  [Suspected Data Exfiltration from PIPd Employee Scenario](https://github.com/Crimson5th/Suspected-Data-Exfiltration-from-PIPd-Employee-Scenario/blob/main/README.md)</b>
 
