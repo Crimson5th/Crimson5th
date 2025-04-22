@@ -4,8 +4,6 @@
  <br>  <b><h1>  Azure / Cloud Cybersecurity Projects</h1><br></b>
  <br>
 
- 
-
 - <b>🍯🍯  [Creating a Live SOC/Honeynet in Azure](https://github.com/Crimson5th/Honey-SOC)</b>
 <br>
 <h1>Vulnerability Management</h1>
